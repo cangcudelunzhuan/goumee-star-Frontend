@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+/*.js
+/src/main.js
+/src/router/index.js
+/src/assets/js/china.js
